@@ -1,3 +1,7 @@
+# 💫 About Me:
+Hi, I’m Aryaman Sharma, a Computer Science Engineering graduate specializing in Full Stack Development. I enjoy building end-to-end solutions, from user-friendly interfaces to secure and scalable backends. My interests also include software engineering, data & AI, and project management. At my core, I’m a problem solver, leveraging technology to create real-world impact.
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryaman-sharma-06z) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryaman.s.work@gmail.com) 
 
