@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Aryaman Sharma, a Computer Science Engineer specializing in Full Stack Development. I enjoy building end-to-end solutions, from user-friendly interfaces to secure and scalable backends. My interests also include software engineering, data & AI, and project management. At my core, I’m a problem solver, leveraging technology to create real-world impact.
+Hi, I’m Aryaman Sharma, a B.Tech graduate in Computer Science Engineering specializing in Full Stack Development. I enjoy building end-to-end solutions, from user-friendly interfaces to secure and scalable backends. My interests also include software engineering, data & AI, and project management. At my core, I’m a problem solver, leveraging technology to create real-world impact.
 
 
 ## 🌐 Socials:
